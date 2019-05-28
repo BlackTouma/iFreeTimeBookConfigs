@@ -19,7 +19,7 @@ https://github.com/BlackTouma/iFreeTimeBookConfigs
 1. 全民小说📖：可换源，部分章节可能无内容，API接口，速度快，稳定，推荐。
 2. 古龙网：古系武侠小说全集（仅有古龙作品）PS：作者古迷，强推。
 3. 多读小说：书源老旧，但错字少，稳定，喜欢追老小说的读者，推荐。
-4. 爱下电子书：是[wxdjs](https://github.com/wxdjs/iFreeTimebookConfigs)大佬共享的书源，个人修改优化，API接口，速度快，稳定，推荐。
+4. 爱下电子书：是[wxdjs](https://github.com/wxdjs/iFreeTimebookConfigs)大佬共享的书源，个人修改优化，已换稳定域名，API接口，速度快，稳定，推荐。
 5. 有兔阅读📖：是从[奪情畢自斃](https://y154541000.github.io/BookConfig/)大佬共享的书源，个人修改优化，已换稳定域名，可换源，API接口，速度快，稳定。
 6. 看书神器：书籍更新快，章节基本无缺失，API接口，速度快，稳定，强烈推荐。
 7. 快读小说📖：书籍更新快，章节基本无缺失，API接口，速度快，质量不错，稳定，强烈推荐。
