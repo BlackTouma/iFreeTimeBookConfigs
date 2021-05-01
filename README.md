@@ -15,6 +15,6 @@
 https://github.com/BlackTouma/iFreeTimeBookConfigs
 ```
 
-## 切记：本书源支持最低版本是：6.6.1。请自行到AppStore上更新到最新版本！
+## 切记：本书源支持最低版本是：6.6.3。请自行到AppStore上更新到最新版本！
 
 用**获取书源配置**就可以获取所有的书源了。
